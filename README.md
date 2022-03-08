@@ -27,4 +27,6 @@
 -'git pull origin main': updates local code with remote code
 	- technically 'git pull' is 'git fetch' + 'git merge'
 - 'git fetch --all': updates history with all remote
+
+- special change on purpose
 	
