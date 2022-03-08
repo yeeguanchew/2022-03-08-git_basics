@@ -12,3 +12,4 @@
 - 'git diff --staged': show you diff for files in staging area
 -  'git checkout <HASH>': take you do <HASH> location
 	-'git checkout'---
+- 'git checkout <HASH> <FILE>': restore <FILE> from version in <HASH>
