@@ -28,4 +28,6 @@
 	- technically 'git pull' is 'git fetch' + 'git merge'
 - 'git fetch --all': updates history with all remote
 - conflict
+
+- special change on purpose
 	
