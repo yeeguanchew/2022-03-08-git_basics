@@ -16,6 +16,10 @@
 
 ## remotes
 
+- 'ssh-keygen': create an ssh key
+	-copy your 'id_rsa.pub' into your ssh keys in your account
+	- use the SSH url for github, not HTTPS
+	
 - 'git remote add origin <URL>': set up the remote called origin with <URL>
 - 'git remote rm origin' : remote remote (can use this to "rename")
 
