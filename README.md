@@ -10,3 +10,5 @@
 	- 'git log --oneline': gives you the shortened oneline version of git log
 - 'git diff <HASH> <FILE>'; show you the differences
 - 'git diff --staged': show you diff for files in staging area
+-  'git checkout <HASH>': take you do <HASH> location
+	-'git checkout'---
