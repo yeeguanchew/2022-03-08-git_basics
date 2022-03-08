@@ -13,3 +13,16 @@
 -  'git checkout <HASH>': take you do <HASH> location
 	-'git checkout'---
 - 'git checkout <HASH> <FILE>': restore <FILE> from version in <HASH>
+
+## remotes
+
+- 'ssh-keygen': create an ssh key
+	-copy your 'id_rsa.pub' into your ssh keys in your account
+	- use the SSH url for github, not HTTPS
+	
+- 'git remote add origin <URL>': set up the remote called origin with <URL>
+- 'git remote rm origin' : remote remote (can use this to "rename")
+
+-'git push origin main': sends code from computer to remote
+-'git pull origin main': updates local code with remote code
+	
