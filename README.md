@@ -9,4 +9,4 @@
 	- hit "q" to quit if it's too long
 	- 'git log --oneline': gives you the shortened oneline version of git log
 - 'git diff <HASH> <FILE>'; show you the differences
-- 'git stage': 
+- 'git diff --staged': show you diff for files in staging area
